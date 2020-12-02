@@ -9,7 +9,3 @@ It was a [Sinclair ZX81 clone](https://www.youtube.com/watch?v=SFAWHB2BKOg) with
 **Many** years later and here I am still enjoying every bit of programming I can do. 🙃
 
 Cheers! 🍻
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backslash-f&show_icons=true&theme=dark&custom_title=GitHub%20Status&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backslash-f&langs_count=2&layout=compact)

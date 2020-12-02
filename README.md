@@ -1,16 +1,16 @@
-### Hi there 👋
+### Howdy! 👋🏻
 
-<!--
-**backslash-f/backslash-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So this was my first computer:
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/2q0flQc.jpg" width="400" alt="Prológica CP-200s">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+It was a [Sinclair ZX81 clone](https://www.youtube.com/watch?v=SFAWHB2BKOg) with outstanding [16 KB RAM](https://k1.spdns.de/Vintage/Sinclair/80/Clones/Prológica%2C%20Brazil). I learned some [BASIC](https://en.wikipedia.org/wiki/BASIC) on one of these. I was about 12 years old. [I had to load programs through a cassette tape](https://www.youtube.com/watch?v=BnHW-f5ayhs). I would spend 20 min or more hoping the tape wasn't damaged and the cassette player had a clean head. If everything went fine I would be able to run a program. If not, it would fail silently. Another option was of course writing programs from scratch before using them, which was very time-consuming. I experimented a lot with that machine and it was... awesome!
+
+**Many** years later and here I am still enjoying every bit of programming I can do. 🙃
+
+Cheers!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backslash-f&show_icons=true&theme=dark&custom_title=GitHub%20Status&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backslash-f&langs_count=2&layout=compact)

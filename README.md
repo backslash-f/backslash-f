@@ -10,7 +10,7 @@ If the stars aligned — the tape wasn't chewed, the cassette head was clean, an
 
 Fast-forward to today, and that excitement never faded — it simply evolved. I'm still driven by the same curiosity, except now it's mostly focused on Swift and iOS development.
 
-Here's to the journey so far — and whatever we build next. 🍻
+Here's to the journey so far — and whatever we build next! 🍻
 
 📦 [My Swift Packages](https://github.com/thatfactory/swift-package-collection)
 
